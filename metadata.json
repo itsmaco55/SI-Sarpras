@@ -1,0 +1,7 @@
+{
+  "name": "SI-SARPRAS: Sistem Informasi Sarana Prasarana Sekolah",
+  "description": "A comprehensive school infrastructure management system featuring multi-role access, item tracking, room booking, damage reporting, and printable asset labels.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
